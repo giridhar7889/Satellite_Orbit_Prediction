@@ -8,6 +8,7 @@
 <img src="https://github.com/furiousMAC/continuity/blob/master/figs/fp.png" alt="A dolphin shooting WiFi from an Uzi" height="120">
 </div> -->
 
+Research Paper:- https://ceur-ws.org/Vol-3282/icaiw_waai_3.pdf
 Our knowledge of space weather and
 air density is limited, trajectories are only seldom obtained from noisy ground-based radar systems, and
 satellite operators are reluctant to disclose their maneuvering intentions. Current orbit predictions that
